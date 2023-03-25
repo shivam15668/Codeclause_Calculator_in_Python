@@ -1,5 +1,5 @@
 
-#Simple Calculator using Python
+# Simple Calculator using Python\
 This is a simple calculator built with Python using the tkinter library. The calculator performs addition, subtraction, and multiplication operations on two numbers entered by the user.
 
 Usage:
